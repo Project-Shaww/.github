@@ -40,7 +40,7 @@ Desarrollador autodidacta con enfoque en backend, frontend, bots y automatizacio
 🌐 **Web personal:** [NebulaCore](http://nebulacoree.duckdns.org:4444) (servicio de desarrollo a medida)  
 💬 **Discord:** [Servidor NebulaCore](https://discord.gg/rpUX4Cq8Ht)
 
----
+
 
 ### 🔶 [Neplod](https://github.com/Neplod)
 **Científico | Divulgador | Developer**
@@ -94,5 +94,6 @@ Apasionado por la ciencia, la divulgación y el desarrollo web. Combina el rigor
   <br>
   <sub>Si compila, lo subimos. Si no compila... también</sub>
 </p>
+
 
 
