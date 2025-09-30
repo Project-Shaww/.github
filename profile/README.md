@@ -48,11 +48,8 @@ Desarrollador autodidacta con enfoque en backend, frontend, bots y automatizacio
 Apasionado por la ciencia, la divulgación y el desarrollo web. Combina el rigor científico con la creatividad del código para crear contenido educativo y herramientas innovadoras.
 
 **Proyectos destacados:**
-- [**divulgando-ciencia-lab**](https://github.com/Neplod/divulgando-ciencia-lab) - Laboratorio web de divulgación científica (Astro)
-- **PAC** - Proyecto de análisis científico con Python
-
-🌐 **Web personal:** [Divulgando Ciencia](https://www.divulgandociencia.com/)  
-🔬 **Lab:** [lab.divulgandociencia.com](https://lab.divulgandociencia.com)
+- [**Divulgando Ciencia**](https://github.com/DivulgandoCiencia/divulgando-ciencia) - Web divulgación científica abierta (Astro)
+- [**Divulgando Ciencia Lab**](https://github.com/Neplod/divulgando-ciencia-lab) - Laboratorio web de divulgación científica (Astro)
 
 ---
 
@@ -87,8 +84,8 @@ Apasionado por la ciencia, la divulgación y el desarrollo web. Combina el rigor
 ¿Tienes alguna duda, propuesta o simplemente quieres saludar?
 
 -  **Email:** project.shaww@gmail.com
--  **Instagram:** Próximamente
--  **X (Twitter):** Próximamente
+-  **Instagram:** project.shaww
+-  **X (Twitter):** project_shaww
 
 ---
 
@@ -97,3 +94,4 @@ Apasionado por la ciencia, la divulgación y el desarrollo web. Combina el rigor
   <br>
   <sub>Si compila, lo subimos. Si no compila... también</sub>
 </p>
+
