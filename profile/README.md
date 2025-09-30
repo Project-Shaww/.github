@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">🌀 Project Shaww</h1>
   <p align="center">
-    <code>HelloWorld")print("</code>
+    <code>HelloWorld("print")</code>
   </p>
   <p align="center">
     <em>Donde las ideas cobran vida... o al menos lo intentamos</em>
@@ -94,4 +94,5 @@ Apasionado por la ciencia, la divulgación y el desarrollo web. Combina el rigor
   <br>
   <sub>Si compila, lo subimos. Si no compila... también</sub>
 </p>
+
 
