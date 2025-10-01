@@ -87,6 +87,7 @@ Apasionado por la ciencia, la divulgación y el desarrollo web. Combina el rigor
 -  **Instagram:** project.shaww
 -  **X (Twitter):** project_shaww
 
+
 ---
 
 <p align="center">
@@ -94,6 +95,7 @@ Apasionado por la ciencia, la divulgación y el desarrollo web. Combina el rigor
   <br>
   <sub>Si compila, lo subimos. Si no compila... también</sub>
 </p>
+
 
 
 
