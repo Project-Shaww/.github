@@ -37,7 +37,7 @@ Desarrollador autodidacta con enfoque en backend, frontend, bots y automatizacio
 - [**discord-verification-bot**](https://github.com/Rexyto/discord-verification-bot) - Sistema de verificación para Discord v14
 - Múltiples bots de Discord (memes, moderación, copias de servidores)
 
-🌐 **Web personal:** [NebulaCore](http://nebulacoree.duckdns.org:4444) (servicio de desarrollo a medida)  
+🌐 **Web personal:** [NebulaCore](https://nebulacoree.duckdns.org) (servicio de desarrollo a medida)  
 💬 **Discord:** [Servidor NebulaCore](https://discord.gg/rpUX4Cq8Ht)
 
 
@@ -88,6 +88,7 @@ Apasionado por la ciencia, la divulgación y el desarrollo web. Combina el rigor
   <br>
   <sub>Si compila, lo subimos. Si no compila... también</sub>
 </p>
+
 
 
 
